@@ -1,0 +1,21 @@
+@import "../src/common/color.scss";
+
+* {
+    margin: 0 3.5px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open sans", sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: $font-primary;
+}
+
+body {
+    background: $primary-color;
+}
+
+.conatiner {
+    margin: 0px 40px;
+}
